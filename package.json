@@ -1,0 +1,24 @@
+{
+  "name": "promise-wait",
+  "version": "1.0.0",
+  "description": "setTimeout in promise form",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshWillik/promise-wait.git"
+  },
+  "keywords": [
+    "promise",
+    "wait",
+    "settimeout"
+  ],
+  "author": "Josh Vanderwillik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshWillik/promise-wait/issues"
+  },
+  "homepage": "https://github.com/JoshWillik/promise-wait#readme"
+}
